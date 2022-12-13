@@ -1,5 +1,5 @@
-Output variable -> y
-y -> Whether the client has subscribed a term deposit or not 
+Output variable -> y<br>
+y -> Whether the client has subscribed a term deposit or not <br>
 Binomial ("yes" or "no")
 
 Attribute information For bank dataset<br>
@@ -27,5 +27,4 @@ Attribute information For bank dataset<br>
 
   Output variable (desired target):<br>
   17 - y - has the client subscribed a term deposit? (binary: "yes","no")<br>
-
-8. Missing Attribute Values: None
+  18 - Missing Attribute Values: None
